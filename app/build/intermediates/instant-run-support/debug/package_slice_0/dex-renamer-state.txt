@@ -1,0 +1,4 @@
+#Tue Jul 31 15:40:38 CST 2018
+base.0=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

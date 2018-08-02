@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#F2F2F2" >
+
+            <!-- 导入title -->
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="收款二维码"
+                android:textColor="#383838"
+                android:textSize="18sp" />
+
+              <ImageView
+                  android:id="@+id/im_loginback"
+                  android:layout_width="38dp"
+                  android:layout_height="43dp"
+                  android:layout_alignParentLeft="true"
+                  android:layout_centerVertical="true"
+                  android:padding="10dp"
+                  android:src="@drawable/huifan" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#fff"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#EAEAEA" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#F2F2F2"
+                android:weightSum="2" >
+
+                <TextView
+                    android:id="@+id/tv_skmx"
+                    android:layout_width="0.0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="#F54d42"
+                    android:gravity="center"
+                    android:text="收款明细"
+                    android:textColor="#FFF" />
+
+                <TextView
+                    android:id="@+id/tv_txmx"
+                    android:layout_width="0.0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="提现明细"
+                    android:textColor="#383838" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="#EAEAEA" />
+
+            <com.lss.duolejie_seller.view.XListView
+                android:id="@+id/av_tixianlist1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#FFF"
+                android:dividerHeight="-1dp" />
+
+            <com.lss.duolejie_seller.view.XListView
+                android:id="@+id/av_tixianlist2"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#FFF"
+                android:dividerHeight="-1dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-auto-scroll-view-pager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/android-auto-scroll-view-pager.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

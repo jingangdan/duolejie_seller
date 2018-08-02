@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_reset.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_reset.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_done.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_done.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\line.xml",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\line.xml"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_scale.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_scale.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_next.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_next.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_rotate.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_rotate.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_angle.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_angle.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_cross.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_cross.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ucrop_ic_crop.png",
+        "source": "C:\\Users\\asus\\.android\\build-cache\\cfbd3045a19558f9debaeaac38293671c490708b\\output\\res\\drawable-ldpi-v4\\ucrop_ic_crop.png"
+    }
+]

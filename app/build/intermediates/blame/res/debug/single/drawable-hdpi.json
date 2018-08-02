@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\scan_line.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\scan_line.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xuanzhong.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\xuanzhong.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_querenshouhuo.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_querenshouhuo.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_flip.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xieshanghui.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\xieshanghui.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\home_select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\introduce_2.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\introduce_2.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\checked.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\checked.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_point.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\feature_point.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\indicator_arrow.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tixian.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\tixian.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\store_select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\store_select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_tuihuanhuo.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_tuihuanhuo.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhangndan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zhangndan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zj.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zj.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mark.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\mark.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\introduce_1.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\introduce_1.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\classify_select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\classify_select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mxbj.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\mxbj.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mima.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\mima.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\baifanhui.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\baifanhui.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_quxiaodingdan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_quxiaodingdan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\store_normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\store_normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_default.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\logo_default.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\material.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\material.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shanchu.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\shanchu.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\denglu.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\denglu.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bangzhu.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\bangzhu.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_shanchudingdan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_shanchudingdan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huiyuan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\huiyuan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\b0_class_middlebg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\b0_class_middlebg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jpush_ic_richpush_actionbar_divider.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tuichu.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\tuichu.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhangdan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zhangdan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\kai.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\kai.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\symbol_left.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\symbol_left.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logoxx.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\logoxx.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zzje.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zzje.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\home_normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dlbac.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\dlbac.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\introduce_3.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\introduce_3.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\selectbg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\selectbg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\feature_point_cur.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\feature_point_cur.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\my_select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shopingcar_select.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\shopingcar_select.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bjs.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\bjs.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_ok_pressed.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huifan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\huifan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ditui_icon.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\ditui_icon.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\phone.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\phone.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\juxing.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\juxing.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\symbol_left1.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\symbol_left1.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\default_ptr_rotate.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\baiyuan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\baiyuan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cancel_pressed.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fanhui_baise.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\fanhui_baise.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\erweimaxx.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\erweimaxx.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_ok_normal.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_normal.9.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\erweima.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\erweima.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zdgl.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zdgl.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\gps.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\b0_class_middleactbg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\b0_class_middleactbg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_publish_task.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\ic_publish_task.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mimaguanli.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\mimaguanli.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_title_back.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\ic_title_back.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\classify_normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\classify_normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fanhui.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\fanhui.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\weixuanzhong.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\weixuanzhong.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fkcg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\fkcg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\jpush_ic_richpush_actionbar_back.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\jpush_ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhfh.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zhfh.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\asdf.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\asdf.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bac.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\bac.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_fukuan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_fukuan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xlistview_arrow.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\xlistview_arrow.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\add.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanligudong.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\guanligudong.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\xianshiyincang.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\xianshiyincang.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zfmima.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zfmima.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cancel.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel.9.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\arrow_right.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\load_img.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\load_img.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eyexian.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\eyexian.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\smfk.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\smfk.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_daipingjia.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\btn_daipingjia.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guanyuwomen.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\guanyuwomen.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\guan.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\guan.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\zhanghu.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\zhanghu.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_low.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\arrow_low.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\my_normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\b0_class_leftbg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\b0_class_leftbg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\body_cont_bg.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\body_cont_bg.9.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shopingcar_normal.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\shopingcar_normal.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\my_title_bg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-hdpi\\my_title_bg.png"
+    }
+]

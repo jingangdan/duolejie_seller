@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\gray_arrow.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\gray_arrow.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\profile_refresh_prompt_bg.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\profile_refresh_prompt_bg.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\shopping_cart_body_dotted_line.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\shopping_cart_body_dotted_line.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\shopping_cart_body_bg_05.9.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-ldpi\\shopping_cart_body_bg_05.9.png"
+    }
+]

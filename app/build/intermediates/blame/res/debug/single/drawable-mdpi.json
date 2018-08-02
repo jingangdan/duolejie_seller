@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mark.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-mdpi\\mark.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\material.png",
+        "source": "D:\\Java\\Project2\\duolejie_seller\\app\\src\\main\\res\\drawable-mdpi\\material.png"
+    }
+]

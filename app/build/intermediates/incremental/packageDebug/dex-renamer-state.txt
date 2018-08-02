@@ -1,0 +1,7 @@
+#Tue Jul 31 15:40:38 CST 2018
+base.0=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6be4fa1be8c63c488a8b840245dd905f17d2d273
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c33092fec08c565c6a0aca15e89e236aa10297cd\\classes.dex
+base.1=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c33092fec08c565c6a0aca15e89e236aa10297cd
+file.0=D\:\\Java\\Project2\\duolejie_seller\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6be4fa1be8c63c488a8b840245dd905f17d2d273\\classes.dex
